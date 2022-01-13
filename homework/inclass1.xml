@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<letter>
+    <head>
+        <image size="small" content="Aspen Logo" width="300px" height="500px"/>
+        <name>Aspen</name>
+   </head>
+    <title>A Personal Letter From Steve Martin</title>
+    <greeting>Dear Jenny</greeting>
+    <paragraph>What a pleasure it is to receive a letter from you...</paragraph>
+    <paragraph>Too often performers lose contact...</paragraph>
+    <signature>Sincerely, Steve Martin</signature>
+    <postscript>I'll always cherish that afternoon...</postscript>
+</letter>
