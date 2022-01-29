@@ -1,0 +1,27 @@
+h1 {
+    color: red;
+}
+div#navigation {
+    background-color: aqua; 
+    padding: 20px;
+    border-style: solid;
+}
+div.rocks {
+    background-color: orange; 
+}
+div.available {
+    background-color: gray;
+    padding: 10px; 
+    margin-bottom: 15px; 
+}
+span.tagline {
+    background-color: red;
+    border-style: solid; 
+    padding: 10px; 
+}
+img {
+    background-color: white; 
+}
+ul {
+    list-style-type: none; 
+}
